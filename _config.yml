@@ -1,0 +1,36 @@
+# Site settings
+name: Albert Paul
+description: "Nonstop traveller, Amateur rationalist advocate. Love coding, and beer junkie."
+url: ""
+
+
+# Delete the lines you don't need
+# about 5 elements are recomended
+github_username:  albertpaulp
+facebook_username: albertpaulp
+twitter_username: albertpaulp
+google_plus_username: albertpaulp
+linkedin_username: albertpaulp
+stack_of_username: 1373197
+email: albertpaulp@gmail.com
+
+avatar: yes
+#avatar_img_path: "imgs/avatar.jpg""
+# You can link to your GitHub image. That way it will get updated
+# automatically whenever you change your GitHub profile picture
+avatar_img_path: "https://en.gravatar.com/userimage/35446985/86e662f11a95792f413458e55831f446.jpg?size=200"
+
+
+front_img: yes
+front_img_path: "imgs/background.jpg"
+#front_img_path: "https://external.url/image.jpg"
+
+
+favicon_img: yes
+favicon_img_path: "http://www.iconj.com/icon.php?pid=1idgst8ijt"
+#favicon_img_path: "https://external.url/favicon.ico"
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
